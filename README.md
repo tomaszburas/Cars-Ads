@@ -9,7 +9,7 @@ Application with announcements cars to sell.
 ### Frontend -> https://github.com/tomaszburas/CarsAdsFrontend
 * react
 
-LIVE: [https://mega-war.herokuapp.com/](https://mega-war.herokuapp.com/ "Cars ads")
+<!-- LIVE: [https://mega-war.herokuapp.com/](https://mega-war.herokuapp.com/ "Cars ads") -->
 
 ![Cars Ads](https://i.imgur.com/1bJbrRh.jpg)
 ![Cars Ads](https://i.imgur.com/AcdiRkd.jpg)
