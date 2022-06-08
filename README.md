@@ -9,8 +9,9 @@ Application with announcements cars to sell.
 ### Frontend -> https://github.com/tomaszburas/CarsAdsFrontend
 * react
 
-LIVE: [https://tomaszenko.networkmanager.pl/cars-ad](https://tomaszenko.networkmanager.pl/cars-ad) "Cars ads")
-If site does not work correctly and you have enable adblock, please disable it.
+LIVE: [CARS AD](https://tomaszenko.networkmanager.pl/cars-ad)
+
+_If site does not work correctly and you have enable adblock, please disable it._
 
 ![Cars Ads](https://i.imgur.com/1bJbrRh.jpg)
 ![Cars Ads](https://i.imgur.com/AcdiRkd.jpg)
